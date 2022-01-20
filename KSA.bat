@@ -405,7 +405,7 @@ goto 2
 
 
 :g
-start www.github.com/OpTimisTT
+start https://github.com/ilgazos/komut-satiri-araclari.git
 goto 3
 
 
